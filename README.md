@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi, I'm Massayoshi — QA Tech Lead | SDET | Quality Engineering Leader</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=massayoshi-campos&&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=massayoshi-campos&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
 ---
