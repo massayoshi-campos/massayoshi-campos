@@ -142,3 +142,17 @@ I am recognized for acting as a **bridge between business, product, and engineer
   />
 </div>
 
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧪 Cypress REST API Testing</h3>
+      <p>REST API test automation using Cypress, focusing on test organization, code reusability, reporting, and continuous integration (CI/CD).</p>
+      <a href="https://github.com/massayoshi-campos/cypress-rest-api-testing">
+        <img src="https://img.shields.io/badge/View%20Project-238636?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
