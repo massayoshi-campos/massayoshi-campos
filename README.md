@@ -163,5 +163,14 @@ I am recognized for acting as a **bridge between business, product, and engineer
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>📊 Cypress Testrail Integration </h3>
+      <p>A project designed to showcase the integration of automated tests with TestRail, making it easier to track test execution history, centralize results, and monitor software quality metrics.</p>
+      <a href="https://github.com/massayoshi-campos/cypress-testrail-integration">
+        <img src="https://img.shields.io/badge/View%20Project-238636?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
